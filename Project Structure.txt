@@ -1,0 +1,6 @@
+password-strength-checker
+│
+├── index.html          ← UI layout
+├── style.css           ← Styles for strength bar and layout
+├── script.js           ← Logic to evaluate password strength
+└── (optional) test.py  ← Optional Python script to test logic manually
